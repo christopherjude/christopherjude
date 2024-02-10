@@ -109,7 +109,7 @@ U alrd know whaddit iz
     <br>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/GraphQL-%23E434AA.svg?style=for-the-badge&logo=graphql&logoColor=white">
     <br>
 </p>
 
