@@ -61,9 +61,9 @@ U alrd know whaddit iz
     <td valign="top" width="100%" colspan="3">
       <p align="center">
         🥁 (drum-rolls) 🥁</br>
-        🥁&nbsp;&nbsp;... 🥁</br>
-        🥁&nbsp;&nbsp;... 🥁</br>
-        🥁&nbsp;&nbsp;... 🥁</br>
+        🥁&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥁</br>
+        🥁 &nbsp;&nbsp;&nbsp; 🥁</br>
+        🥁</br>
       </p>
     </td>
   </tr>
