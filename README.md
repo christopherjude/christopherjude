@@ -3,6 +3,21 @@
 U alrd know whaddit iz  
 </p>
 
+# <h3 align="center"> 🫷 Check me out 🫸 </h3>
+<p align="center">
+<a href="https://www.youtube.com/@Terminal247-ti7cs"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://www.twitch.tv/numerounomun0"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
+<a href="https://medium.com/@cj.christopherjude"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://dev.to/christopherjude"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+</p>
+
+# <h3 align="center"> 🤘🏼 Hit me up 🤘🏼 </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</p>
 
 # <h3 align="center"> 😎 Bout da Playa 😎 </h3>
 <table align="center" width="100%">
