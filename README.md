@@ -79,19 +79,22 @@ U alrd know whaddit iz
 # <h3 align="center"> 🛠️ Hack Stack 🛠️ </h3>
 <div align="center">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/-Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396&color=007396">
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/-Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396&color=007396">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <br>
 </div>
 
 # <h3 align="center"> ⚡ Coder Flex ⚡ </h3>
