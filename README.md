@@ -99,11 +99,11 @@ U alrd know whaddit iz
 
 # <h3 align="center"> ⚡ Coder Flex ⚡ </h3>
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=christopherjude&theme=radical&column=FF6F61&row=FF6F61&no-frame=true&no-bg=true">
-    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=christopherjude&show_icons=true&theme=radical">
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=christopherjude&theme=radical&ring=FF6F61&fire=FF6F61&sideNums=FF6F61&sideLabels=FF6F61&currStreakNum=FF6F61&currStreakLabel=FF6F61&dates=FF6F61&stroke=141321&background=141321">
+    <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=christopherjude&theme=radical&column=FF6F61&row=FF6F61&no-frame=true&no-bg=true">
     <br>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=christopherjude&bg_color=141321&color=a5ed07&line=fe428e&point=00bd97&area=true&hide_border=true">
