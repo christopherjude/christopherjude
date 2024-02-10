@@ -77,8 +77,9 @@ U alrd know whaddit iz
 </table>
 
 # <h3 align="center"> 🛠️ Hack Stack 🛠️ </h3>
-<div align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/-Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -95,7 +96,7 @@ U alrd know whaddit iz
     <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <br>
-</div>
+</p>
 
 # <h3 align="center"> ⚡ Coder Flex ⚡ </h3>
 <div align="center">
