@@ -30,5 +30,10 @@ U alrd know whaddit iz ✌🏻
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## ⚡ GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## ⚡ Reputation
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=christopherjude&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherjude&layout=compact)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=christopherjude)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=christopherjude)
+![Trophy Case](https://github-profile-trophy.vercel.app/?username=christopherjude)
+
