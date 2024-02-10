@@ -6,8 +6,8 @@ U alrd know whaddit iz
 # <h3 align="center"> 🫷 Check me out 🫸 </h3>
 <p align="center">
 <a href="https://www.youtube.com/@Terminal247-ti7cs"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-<a href="https://medium.com/@cj.christopherjude"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-<a href="https://dev.to/christopherjude"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://medium.com/@cj.christopherjude"><img src="https://img.shields.io/badge/Medium-gray?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://dev.to/christopherjude"><img src="https://img.shields.io/badge/dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black"></a>
 <a href="https://www.twitch.tv/numerounomun0"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
 </p>
 
@@ -99,7 +99,7 @@ U alrd know whaddit iz
     <br>
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+    <img src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black">
     <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396&color=007396">
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <br>
