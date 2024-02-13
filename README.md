@@ -1,8 +1,8 @@
-# <h3 align="center"> ✌🏻 Yo whaddup ✌🏻  </h3>
+<p align="center"><a href="https://christopherjude.github.io"><img src="portfolio-site-cover-no-dp.png" alt="portfolio-site-cover-no-dp"></a></p>
+<h3 align="center"> ✌🏻 Yo whaddup ✌🏻  </h3>
 <p align="center">Diz ya boi C 2 Da J</br>
-U alrd know whaddit iz  
+U alrd know whaddit iz  <br><br> <img src="https://img.shields.io/badge/Personal website-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
-<p align="center"><img src="portfolio-site-cover-no-dp.png.png" alt="portfolio-site-cover-no-dp"></p>
 
 
 # <h3 align="center"> 🫷 Check me out 🫸 </h3>
