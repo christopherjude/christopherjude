@@ -2,6 +2,8 @@
 <p align="center">Diz ya boi C 2 Da J</br>
 U alrd know whaddit iz  
 </p>
+<p align="center"><img src="portfolio-site-cover-no-dp.png.png" alt="portfolio-site-cover-no-dp"></p>
+
 
 # <h3 align="center"> 🫷 Check me out 🫸 </h3>
 <p align="center">
