@@ -1,7 +1,7 @@
 <p align="center"><a href="https://christopherjude.github.io"><img src="portfolio-site-cover-no-dp.png" alt="portfolio-site-cover-no-dp"></a></p>
 <h3 align="center"> ✌🏻 Yo whaddup ✌🏻  </h3>
 <p align="center">Diz ya boi C 2 Da J</br>
-U alrd know whaddit iz  <br><br> <img src="https://img.shields.io/badge/Personal website-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+U alrd know whaddit iz  <br><br> <a href="https://christopherjude.github.io"><img src="https://img.shields.io/badge/Personal website-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/></a>
 </p>
 
 
